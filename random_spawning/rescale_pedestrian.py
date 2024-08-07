@@ -1,3 +1,6 @@
+"""
+    Rescaling code for random spawning
+"""
 import numpy as np
 import PIL.Image as Image
 import cv2
